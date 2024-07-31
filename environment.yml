@@ -1,0 +1,20 @@
+name: ptys_551
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - rasterio
+  - numpy
+  - matplotlib
+  - scipy
+  - tqdm
+  - scikit-learn
+  - spectral
+  - ipython
+  - pandas
+  - pyqt=5
+  - outliers
+  - multiprocessing
+  - json
+  - glob2
