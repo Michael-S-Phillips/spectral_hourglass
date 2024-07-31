@@ -14,6 +14,7 @@ dependencies:
   - ipython
   - pandas
   - glob2
+  - pip
   - pip:
       - PyQt5
       - outliers
