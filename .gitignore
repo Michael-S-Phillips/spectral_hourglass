@@ -8,3 +8,15 @@ ppi_vectors_selected.json
 ppi_vectors_selected2.json
 ppi_vectors_selected_gt200.json
 requirements_list.txt
+.DS_Store
+SuPy.log
+__pycache__/iovf_generic.cpython-312.pyc
+__pycache__/iovf_generic_utils.cpython-312.pyc
+figures/
+kim_figure_crop_01.cpg
+kim_figure_crop_01.dbf
+kim_figure_crop_01.prj
+kim_figure_crop_01.qix
+kim_figure_crop_01.shp
+kim_figure_crop_01.shx
+model/
